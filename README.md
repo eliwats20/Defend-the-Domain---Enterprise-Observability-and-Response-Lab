@@ -32,5 +32,5 @@ Before running this lab, ensure the following:
    - Install the AD DS role on Windows Server 2022
    - Promote the server to a domain controller (e.g., `corp.local`)
    - Create user accounts and organizational units (OUs)
-<img width="374" height="265" alt="image" src="https://github.com/user-attachments/assets/1d3c9cec-dc2e-41cc-ab14-35d0a4d2fc03" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/1d3c9cec-dc2e-41cc-ab14-35d0a4d2fc03" />
 
