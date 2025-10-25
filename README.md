@@ -25,3 +25,13 @@ Before running this lab, ensure the following:
 - ✅ Kali Linux updated with necessary tools:
   ```bash
   sudo apt update && sudo apt install nmap hydra metasploit-framework
+
+## Steps
+
+1. **Setup Active Directory (AD)**
+   - Install the AD DS role on Windows Server 2022
+   - Promote the server to a domain controller (e.g., `corp.local`)
+   - Create user accounts and organizational units (OUs)
+
+   ![Active Directory Setup Screenshot] <img width="374" height="265" alt="image" src="https://github.com/user-attachments/assets/8828e1b8-bb8d-4df1-9e01-9299068d674e" />
+
