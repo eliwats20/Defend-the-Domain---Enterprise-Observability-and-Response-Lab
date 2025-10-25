@@ -3,7 +3,7 @@ Cybersecurity home lab for Active Directory, Kali Linux attacks, SIEM monitoring
 
 ## 🛠️ Tools Used
 
-- **Windows Server 2019** – Active Directory Domain Services (AD DS), DNS, Sysmon
+- **Windows Server 2022** – Active Directory Domain Services (AD DS), DNS, Sysmon
 - **Windows 10 Client** – Domain-joined endpoint for attack simulation
 - **Kali Linux** – Offensive security tools (`nmap`, `hydra`, `metasploit-framework`)
 - **Elastic Stack (ELK)** – Elasticsearch, Logstash, Kibana, Elastic Defend (SIEM)
